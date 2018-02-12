@@ -23,6 +23,7 @@
 		AC0446F62026F3F900768EE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC0446F82026F3F900768EE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC0446FF2026F4B600768EE6 /* TypesOfSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypesOfSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		AC0D1A07203122F900EC9314 /* ClosureAbout.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ClosureAbout.playground; path = ../../ClosureAbout.playground; sourceTree = "<group>"; };
 		AC0D1EE7202B2AE60081FEC8 /* String&NSString_unicode.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "String&NSString_unicode.playground"; path = "../../String&NSString_unicode.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -58,6 +59,7 @@
 			children = (
 				AC0446EC2026F3F900768EE6 /* AppDelegate.swift */,
 				AC0446EE2026F3F900768EE6 /* ViewController.swift */,
+				AC0D1A07203122F900EC9314 /* ClosureAbout.playground */,
 				AC0D1EE7202B2AE60081FEC8 /* String&NSString_unicode.playground */,
 				AC0446FF2026F4B600768EE6 /* TypesOfSwift.playground */,
 				AC0446F02026F3F900768EE6 /* Main.storyboard */,
